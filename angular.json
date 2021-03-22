@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "camera-config-json-tree"
+    }
+  },
+  "defaultProject": "camera-config-json-tree",
+  "cli": {
+    "analytics": false
+  }
 }
